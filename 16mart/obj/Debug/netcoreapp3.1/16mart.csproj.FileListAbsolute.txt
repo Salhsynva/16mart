@@ -1,0 +1,14 @@
+C:\Users\HardSoft\source\repos\16mart\16mart\bin\Debug\netcoreapp3.1\16mart.exe
+C:\Users\HardSoft\source\repos\16mart\16mart\bin\Debug\netcoreapp3.1\16mart.deps.json
+C:\Users\HardSoft\source\repos\16mart\16mart\bin\Debug\netcoreapp3.1\16mart.runtimeconfig.json
+C:\Users\HardSoft\source\repos\16mart\16mart\bin\Debug\netcoreapp3.1\16mart.runtimeconfig.dev.json
+C:\Users\HardSoft\source\repos\16mart\16mart\bin\Debug\netcoreapp3.1\16mart.dll
+C:\Users\HardSoft\source\repos\16mart\16mart\bin\Debug\netcoreapp3.1\16mart.pdb
+C:\Users\HardSoft\source\repos\16mart\16mart\obj\Debug\netcoreapp3.1\16mart.csproj.AssemblyReference.cache
+C:\Users\HardSoft\source\repos\16mart\16mart\obj\Debug\netcoreapp3.1\16mart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HardSoft\source\repos\16mart\16mart\obj\Debug\netcoreapp3.1\16mart.AssemblyInfoInputs.cache
+C:\Users\HardSoft\source\repos\16mart\16mart\obj\Debug\netcoreapp3.1\16mart.AssemblyInfo.cs
+C:\Users\HardSoft\source\repos\16mart\16mart\obj\Debug\netcoreapp3.1\16mart.csproj.CoreCompileInputs.cache
+C:\Users\HardSoft\source\repos\16mart\16mart\obj\Debug\netcoreapp3.1\16mart.dll
+C:\Users\HardSoft\source\repos\16mart\16mart\obj\Debug\netcoreapp3.1\16mart.pdb
+C:\Users\HardSoft\source\repos\16mart\16mart\obj\Debug\netcoreapp3.1\16mart.genruntimeconfig.cache
